@@ -38,6 +38,8 @@ This is a responsive website that works effectively on laptops and mobile phones
 ## Technologies Used
 - HTML
 - CSS
-- HTML5
-- CSS3
-- Bootstrap 5
+- Java script
+  
+## Getting Started
+
+To view the website, simply [click here](https://tokakhaled4.github.io/Shopping_Online_Website/).
