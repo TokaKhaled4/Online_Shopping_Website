@@ -44,4 +44,4 @@ The project consists of the following pages:
   
 ## Getting Started
 
-To view the website, simply [click here](https://tokakhaled4.github.io/Shopping_Online_Website/).
+To view the website, simply [click here](https://tokakhaled4.github.io/Online_Shopping_Website/).
