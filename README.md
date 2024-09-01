@@ -22,7 +22,7 @@ The project consists of the following pages:
    - Products can be added to favorites.
    - Users can adjust the quantity of products in their cart.
 
-5. **Products Page**
+5. **Checkout Page**
    - Displays purchased products.
    - Allows users to remove products or adjust their quantities.
    - Shows the total price of the products in the cart.
